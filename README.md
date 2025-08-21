@@ -90,12 +90,6 @@
 
 ---
 
-## ⭐ Star 趋势
-
-[![Star History Chart](https://api.star-history.com/svg?repos=anduinnn/HiFiNi-Auto-CheckIn&type=Date)](https://www.star-history.com/#anduinnn/HiFiNi-Auto-CheckIn&Date)
-
----
-
 # ✨ Thanks for using HiFiNi-Auto-CheckIn！
 
-[如果觉得项目有帮助就到项目页给作者点个⭐吧]👉(https://github.com/anduinnn/HiFiNi-Auto-CheckIn?tab=readme-ov-file#-thanks-for-using-hifini-auto-checkin)
+如果觉得项目有帮助就到项目页给作者点个⭐吧
