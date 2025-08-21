@@ -98,4 +98,4 @@
 
 # ✨ Thanks for using HiFiNi-Auto-CheckIn！
 
-如果觉得项目有帮助，欢迎 ⭐️Star 支持！
+[如果觉得项目有帮助就到项目页给作者点个⭐吧👉(https://github.com/anduinnn/HiFiNi-Auto-CheckIn?tab=readme-ov-file#-thanks-for-using-hifini-auto-checkin)]
