@@ -53,32 +53,6 @@
 
 ---
 
-### 获取 Server酱 Key
-
-访问 [Server酱官网](https://sct.ftqq.com/)，注册并获取推送 Key。
-
-![Server酱示例](https://github.com/anduinnn/HifiNiAutoCheckIn/assets/68073009/c70b4471-2933-4441-964c-5aa2873c3590)
-
----
-
-### 配置钉钉机器人
-
-👉 [查看钉钉机器人配置教程](READMES/DingTalkRobotConfigInfo.md)
-
----
-
-### 配置企业微信机器人
-
-👉 [查看企业微信机器人配置教程](READMES/WeChatWorkRobotConfigInfo.md)
-
----
-
-### 配置 Gotify 推送
-
-👉 [查看 Gotify 配置教程](READMES/GofityConfigInfo.md)
-
----
-
 ## 🔄 如何同步最新代码？
 
 如果 Fork 后需要拉取主仓库更新：
